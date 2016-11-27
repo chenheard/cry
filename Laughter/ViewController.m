@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"这是一个新的项目工程");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
