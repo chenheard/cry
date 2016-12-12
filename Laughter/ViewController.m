@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"this is branch11");
+    NSLog(@"git reset branch11 ");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
