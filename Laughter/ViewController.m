@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"this is on master branch");
+    NSLog(@"other master branch ");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
